@@ -20,3 +20,4 @@ F:\IdealRatings\New folder\Solution1\MyApplication.Domain\obj\Debug\net8.0\MyApp
 F:\IdealRatings\New folder\Solution1\MyApplication.Domain\obj\Debug\net8.0\refint\MyApplication.Domain.dll
 F:\IdealRatings\New folder\Solution1\MyApplication.Domain\obj\Debug\net8.0\MyApplication.Domain.pdb
 F:\IdealRatings\New folder\Solution1\MyApplication.Domain\obj\Debug\net8.0\ref\MyApplication.Domain.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Domain\obj\Debug\net8.0\MyApplication.Domain.sourcelink.json

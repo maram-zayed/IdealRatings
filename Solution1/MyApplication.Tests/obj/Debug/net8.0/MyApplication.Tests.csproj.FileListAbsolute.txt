@@ -270,3 +270,4 @@ F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Micros
 F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
 F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
 F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\obj\Debug\net8.0\MyApplication.Tests.sourcelink.json

@@ -191,3 +191,4 @@ F:\IdealRatings\New folder\Solution1\MyApplication.API\obj\Debug\net8.0\staticwe
 F:\IdealRatings\New folder\Solution1\MyApplication.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyApplication.API.props
 F:\IdealRatings\New folder\Solution1\MyApplication.API\obj\Debug\net8.0\staticwebassets.pack.json
 F:\IdealRatings\New folder\Solution1\MyApplication.API\obj\Debug\net8.0\scopedcss\bundle\MyApplication.API.styles.css
+F:\IdealRatings\New folder\Solution1\MyApplication.API\obj\Debug\net8.0\MyApplication.API.sourcelink.json

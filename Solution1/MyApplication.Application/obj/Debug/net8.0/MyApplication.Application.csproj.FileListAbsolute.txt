@@ -30,3 +30,4 @@ F:\IdealRatings\New folder\Solution1\MyApplication.Application\obj\Debug\net8.0\
 F:\IdealRatings\New folder\Solution1\MyApplication.Application\obj\Debug\net8.0\MyApplication.Application.pdb
 F:\IdealRatings\New folder\Solution1\MyApplication.Application\obj\Debug\net8.0\MyApplication.Application.genruntimeconfig.cache
 F:\IdealRatings\New folder\Solution1\MyApplication.Application\obj\Debug\net8.0\ref\MyApplication.Application.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Application\obj\Debug\net8.0\MyApplication.Application.sourcelink.json

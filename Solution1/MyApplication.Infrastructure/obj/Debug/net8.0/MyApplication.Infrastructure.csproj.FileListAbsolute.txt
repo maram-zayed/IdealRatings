@@ -32,3 +32,4 @@ F:\IdealRatings\New folder\Solution1\MyApplication.Infrastructure\obj\Debug\net8
 F:\IdealRatings\New folder\Solution1\MyApplication.Infrastructure\obj\Debug\net8.0\refint\MyApplication.Infrastructure.dll
 F:\IdealRatings\New folder\Solution1\MyApplication.Infrastructure\obj\Debug\net8.0\MyApplication.Infrastructure.pdb
 F:\IdealRatings\New folder\Solution1\MyApplication.Infrastructure\obj\Debug\net8.0\ref\MyApplication.Infrastructure.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Infrastructure\obj\Debug\net8.0\MyApplication.Infrastructure.sourcelink.json
