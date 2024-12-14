@@ -1,0 +1,8 @@
+﻿using MyApplication.Application.DTOs;
+
+namespace MyApplication.Application.Services;
+
+public interface IPersonService
+{
+    Task<IEnumerable<PersonDto>> GetPersonsAsync(string? filter);
+}

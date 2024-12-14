@@ -1,0 +1,32 @@
+F:\IdealRatings\Solution1\MyApplication.Application\bin\Debug\net8.0\MyApplication.Application.deps.json
+F:\IdealRatings\Solution1\MyApplication.Application\bin\Debug\net8.0\MyApplication.Application.dll
+F:\IdealRatings\Solution1\MyApplication.Application\bin\Debug\net8.0\MyApplication.Application.pdb
+F:\IdealRatings\Solution1\MyApplication.Application\bin\Debug\net8.0\MyApplication.Domain.dll
+F:\IdealRatings\Solution1\MyApplication.Application\bin\Debug\net8.0\MyApplication.Domain.pdb
+F:\IdealRatings\Solution1\MyApplication.Application\obj\Debug\net8.0\MyApplication.Application.csproj.AssemblyReference.cache
+F:\IdealRatings\Solution1\MyApplication.Application\obj\Debug\net8.0\MyApplication.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\IdealRatings\Solution1\MyApplication.Application\obj\Debug\net8.0\MyApplication.Application.AssemblyInfoInputs.cache
+F:\IdealRatings\Solution1\MyApplication.Application\obj\Debug\net8.0\MyApplication.Application.AssemblyInfo.cs
+F:\IdealRatings\Solution1\MyApplication.Application\obj\Debug\net8.0\MyApplication.Application.csproj.CoreCompileInputs.cache
+F:\IdealRatings\Solution1\MyApplication.Application\obj\Debug\net8.0\MyApplic.05EA8228.Up2Date
+F:\IdealRatings\Solution1\MyApplication.Application\obj\Debug\net8.0\MyApplication.Application.dll
+F:\IdealRatings\Solution1\MyApplication.Application\obj\Debug\net8.0\refint\MyApplication.Application.dll
+F:\IdealRatings\Solution1\MyApplication.Application\obj\Debug\net8.0\MyApplication.Application.pdb
+F:\IdealRatings\Solution1\MyApplication.Application\obj\Debug\net8.0\ref\MyApplication.Application.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Application\bin\Debug\net8.0\MyApplication.Application.deps.json
+F:\IdealRatings\New folder\Solution1\MyApplication.Application\bin\Debug\net8.0\MyApplication.Application.runtimeconfig.json
+F:\IdealRatings\New folder\Solution1\MyApplication.Application\bin\Debug\net8.0\MyApplication.Application.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Application\bin\Debug\net8.0\MyApplication.Application.pdb
+F:\IdealRatings\New folder\Solution1\MyApplication.Application\bin\Debug\net8.0\MyApplication.Domain.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Application\bin\Debug\net8.0\MyApplication.Domain.pdb
+F:\IdealRatings\New folder\Solution1\MyApplication.Application\obj\Debug\net8.0\MyApplication.Application.csproj.AssemblyReference.cache
+F:\IdealRatings\New folder\Solution1\MyApplication.Application\obj\Debug\net8.0\MyApplication.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\IdealRatings\New folder\Solution1\MyApplication.Application\obj\Debug\net8.0\MyApplication.Application.AssemblyInfoInputs.cache
+F:\IdealRatings\New folder\Solution1\MyApplication.Application\obj\Debug\net8.0\MyApplication.Application.AssemblyInfo.cs
+F:\IdealRatings\New folder\Solution1\MyApplication.Application\obj\Debug\net8.0\MyApplication.Application.csproj.CoreCompileInputs.cache
+F:\IdealRatings\New folder\Solution1\MyApplication.Application\obj\Debug\net8.0\MyApplic.05EA8228.Up2Date
+F:\IdealRatings\New folder\Solution1\MyApplication.Application\obj\Debug\net8.0\MyApplication.Application.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Application\obj\Debug\net8.0\refint\MyApplication.Application.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Application\obj\Debug\net8.0\MyApplication.Application.pdb
+F:\IdealRatings\New folder\Solution1\MyApplication.Application\obj\Debug\net8.0\MyApplication.Application.genruntimeconfig.cache
+F:\IdealRatings\New folder\Solution1\MyApplication.Application\obj\Debug\net8.0\ref\MyApplication.Application.dll

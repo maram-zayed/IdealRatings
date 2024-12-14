@@ -1,0 +1,8 @@
+﻿namespace MyApplication.Application.Mapping.MapperFunctionDetails;
+
+public partial class AutoMapperConfig
+{
+    public void MapPerson()
+    {
+    }
+}

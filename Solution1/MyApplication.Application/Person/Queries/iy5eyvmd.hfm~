@@ -1,0 +1,39 @@
+﻿using MyApplication.Application.Person.DTOs;
+using MediatR;
+using MyApplication.Application.Queries;
+using MyApplication.Application.Services;
+
+namespace MyApplication.Application.Queries
+{
+    public class GetPersonsQuery : IRequest<IEnumerable<PersonDto>>
+    {
+        public string? Filter { get; set; }
+    }
+}
+
+namespace MyApplication.Application.Handlers
+{
+    public class GetPersonsQueryHandler : IRequestHandler<GetPersonsQuery, IEnumerable<PersonDto>>
+    {
+        private readonly IPersonRepository _personRepository;
+
+        public GetPersonsQueryHandler(IPersonRepository personRepository)
+        {
+            _personRepository = personRepository;
+        }
+
+        public async Task<IEnumerable<PersonDto>> Handle(GetPersonsQuery request, CancellationToken cancellationToken)
+        {
+            var persons = await _personRepository.GetPersonsAsync(request.Filter);
+
+            return persons.Select(p => new PersonDto
+            {
+                Name = p.Name,
+                TelephoneNumber = p.TelephoneNumber,
+                Address = p.Address,
+                Country = p.Country
+            });
+        }
+    }
+}
+
