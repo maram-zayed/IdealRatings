@@ -1,0 +1,34 @@
+F:\IdealRatings\Solution1\MyApplication.Infrastructure\bin\Debug\net8.0\MyApplication.Infrastructure.deps.json
+F:\IdealRatings\Solution1\MyApplication.Infrastructure\bin\Debug\net8.0\MyApplication.Infrastructure.dll
+F:\IdealRatings\Solution1\MyApplication.Infrastructure\bin\Debug\net8.0\MyApplication.Infrastructure.pdb
+F:\IdealRatings\Solution1\MyApplication.Infrastructure\bin\Debug\net8.0\MyApplication.Application.dll
+F:\IdealRatings\Solution1\MyApplication.Infrastructure\bin\Debug\net8.0\MyApplication.Domain.dll
+F:\IdealRatings\Solution1\MyApplication.Infrastructure\bin\Debug\net8.0\MyApplication.Application.pdb
+F:\IdealRatings\Solution1\MyApplication.Infrastructure\bin\Debug\net8.0\MyApplication.Domain.pdb
+F:\IdealRatings\Solution1\MyApplication.Infrastructure\obj\Debug\net8.0\MyApplication.Infrastructure.csproj.AssemblyReference.cache
+F:\IdealRatings\Solution1\MyApplication.Infrastructure\obj\Debug\net8.0\MyApplication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\IdealRatings\Solution1\MyApplication.Infrastructure\obj\Debug\net8.0\MyApplication.Infrastructure.AssemblyInfoInputs.cache
+F:\IdealRatings\Solution1\MyApplication.Infrastructure\obj\Debug\net8.0\MyApplication.Infrastructure.AssemblyInfo.cs
+F:\IdealRatings\Solution1\MyApplication.Infrastructure\obj\Debug\net8.0\MyApplication.Infrastructure.csproj.CoreCompileInputs.cache
+F:\IdealRatings\Solution1\MyApplication.Infrastructure\obj\Debug\net8.0\MyApplic.9008B6F6.Up2Date
+F:\IdealRatings\Solution1\MyApplication.Infrastructure\obj\Debug\net8.0\MyApplication.Infrastructure.dll
+F:\IdealRatings\Solution1\MyApplication.Infrastructure\obj\Debug\net8.0\refint\MyApplication.Infrastructure.dll
+F:\IdealRatings\Solution1\MyApplication.Infrastructure\obj\Debug\net8.0\MyApplication.Infrastructure.pdb
+F:\IdealRatings\Solution1\MyApplication.Infrastructure\obj\Debug\net8.0\ref\MyApplication.Infrastructure.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Infrastructure\bin\Debug\net8.0\MyApplication.Infrastructure.deps.json
+F:\IdealRatings\New folder\Solution1\MyApplication.Infrastructure\bin\Debug\net8.0\MyApplication.Infrastructure.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Infrastructure\bin\Debug\net8.0\MyApplication.Infrastructure.pdb
+F:\IdealRatings\New folder\Solution1\MyApplication.Infrastructure\bin\Debug\net8.0\MyApplication.Application.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Infrastructure\bin\Debug\net8.0\MyApplication.Domain.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Infrastructure\bin\Debug\net8.0\MyApplication.Application.pdb
+F:\IdealRatings\New folder\Solution1\MyApplication.Infrastructure\bin\Debug\net8.0\MyApplication.Domain.pdb
+F:\IdealRatings\New folder\Solution1\MyApplication.Infrastructure\obj\Debug\net8.0\MyApplication.Infrastructure.csproj.AssemblyReference.cache
+F:\IdealRatings\New folder\Solution1\MyApplication.Infrastructure\obj\Debug\net8.0\MyApplication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\IdealRatings\New folder\Solution1\MyApplication.Infrastructure\obj\Debug\net8.0\MyApplication.Infrastructure.AssemblyInfoInputs.cache
+F:\IdealRatings\New folder\Solution1\MyApplication.Infrastructure\obj\Debug\net8.0\MyApplication.Infrastructure.AssemblyInfo.cs
+F:\IdealRatings\New folder\Solution1\MyApplication.Infrastructure\obj\Debug\net8.0\MyApplication.Infrastructure.csproj.CoreCompileInputs.cache
+F:\IdealRatings\New folder\Solution1\MyApplication.Infrastructure\obj\Debug\net8.0\MyApplic.9008B6F6.Up2Date
+F:\IdealRatings\New folder\Solution1\MyApplication.Infrastructure\obj\Debug\net8.0\MyApplication.Infrastructure.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Infrastructure\obj\Debug\net8.0\refint\MyApplication.Infrastructure.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Infrastructure\obj\Debug\net8.0\MyApplication.Infrastructure.pdb
+F:\IdealRatings\New folder\Solution1\MyApplication.Infrastructure\obj\Debug\net8.0\ref\MyApplication.Infrastructure.dll

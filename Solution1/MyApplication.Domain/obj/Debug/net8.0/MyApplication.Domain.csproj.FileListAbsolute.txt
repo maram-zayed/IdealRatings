@@ -1,0 +1,22 @@
+F:\IdealRatings\Solution1\MyApplication.Domain\bin\Debug\net8.0\MyApplication.Domain.deps.json
+F:\IdealRatings\Solution1\MyApplication.Domain\bin\Debug\net8.0\MyApplication.Domain.dll
+F:\IdealRatings\Solution1\MyApplication.Domain\bin\Debug\net8.0\MyApplication.Domain.pdb
+F:\IdealRatings\Solution1\MyApplication.Domain\obj\Debug\net8.0\MyApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\IdealRatings\Solution1\MyApplication.Domain\obj\Debug\net8.0\MyApplication.Domain.AssemblyInfoInputs.cache
+F:\IdealRatings\Solution1\MyApplication.Domain\obj\Debug\net8.0\MyApplication.Domain.AssemblyInfo.cs
+F:\IdealRatings\Solution1\MyApplication.Domain\obj\Debug\net8.0\MyApplication.Domain.csproj.CoreCompileInputs.cache
+F:\IdealRatings\Solution1\MyApplication.Domain\obj\Debug\net8.0\MyApplication.Domain.dll
+F:\IdealRatings\Solution1\MyApplication.Domain\obj\Debug\net8.0\refint\MyApplication.Domain.dll
+F:\IdealRatings\Solution1\MyApplication.Domain\obj\Debug\net8.0\MyApplication.Domain.pdb
+F:\IdealRatings\Solution1\MyApplication.Domain\obj\Debug\net8.0\ref\MyApplication.Domain.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Domain\bin\Debug\net8.0\MyApplication.Domain.deps.json
+F:\IdealRatings\New folder\Solution1\MyApplication.Domain\bin\Debug\net8.0\MyApplication.Domain.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Domain\bin\Debug\net8.0\MyApplication.Domain.pdb
+F:\IdealRatings\New folder\Solution1\MyApplication.Domain\obj\Debug\net8.0\MyApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\IdealRatings\New folder\Solution1\MyApplication.Domain\obj\Debug\net8.0\MyApplication.Domain.AssemblyInfoInputs.cache
+F:\IdealRatings\New folder\Solution1\MyApplication.Domain\obj\Debug\net8.0\MyApplication.Domain.AssemblyInfo.cs
+F:\IdealRatings\New folder\Solution1\MyApplication.Domain\obj\Debug\net8.0\MyApplication.Domain.csproj.CoreCompileInputs.cache
+F:\IdealRatings\New folder\Solution1\MyApplication.Domain\obj\Debug\net8.0\MyApplication.Domain.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Domain\obj\Debug\net8.0\refint\MyApplication.Domain.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Domain\obj\Debug\net8.0\MyApplication.Domain.pdb
+F:\IdealRatings\New folder\Solution1\MyApplication.Domain\obj\Debug\net8.0\ref\MyApplication.Domain.dll
