@@ -1,0 +1,272 @@
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\testhost.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\testhost.exe
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\MyApplication.Tests.deps.json
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\MyApplication.Tests.runtimeconfig.json
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\MyApplication.Tests.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\MyApplication.Tests.pdb
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\NuGet.Frameworks.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\xunit.abstractions.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\xunit.assert.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\xunit.core.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\xunit.execution.dotnet.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\obj\Debug\net8.0\MyApplication.Tests.csproj.AssemblyReference.cache
+F:\IdealRatings\Solution1\MyApplication.Tests\obj\Debug\net8.0\MyApplication.Tests.GeneratedMSBuildEditorConfig.editorconfig
+F:\IdealRatings\Solution1\MyApplication.Tests\obj\Debug\net8.0\MyApplication.Tests.AssemblyInfoInputs.cache
+F:\IdealRatings\Solution1\MyApplication.Tests\obj\Debug\net8.0\MyApplication.Tests.AssemblyInfo.cs
+F:\IdealRatings\Solution1\MyApplication.Tests\obj\Debug\net8.0\MyApplication.Tests.csproj.CoreCompileInputs.cache
+F:\IdealRatings\Solution1\MyApplication.Tests\obj\Debug\net8.0\MyApplic.67CABBC4.Up2Date
+F:\IdealRatings\Solution1\MyApplication.Tests\obj\Debug\net8.0\MyApplication.Tests.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\obj\Debug\net8.0\refint\MyApplication.Tests.dll
+F:\IdealRatings\Solution1\MyApplication.Tests\obj\Debug\net8.0\MyApplication.Tests.pdb
+F:\IdealRatings\Solution1\MyApplication.Tests\obj\Debug\net8.0\MyApplication.Tests.genruntimeconfig.cache
+F:\IdealRatings\Solution1\MyApplication.Tests\obj\Debug\net8.0\ref\MyApplication.Tests.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_MyApplication.Tests
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\testhost.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\testhost.exe
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\xunit.runner.visualstudio.testadapter.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\MyApplication.Tests.deps.json
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\MyApplication.Tests.runtimeconfig.json
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\MyApplication.Tests.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\MyApplication.Tests.pdb
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\AutoMapper.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Azure.Core.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Azure.Identity.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Castle.Core.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\FluentAssertions.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\FluentValidation.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\MediatR.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\MediatR.Contracts.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Moq.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\RedmentCore.Infrastructure.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\RedmentCore.MediateR.CustomPublishstrategy.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\System.ClientModel.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\System.Formats.Asn1.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\System.IO.Pipelines.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\System.Memory.Data.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\System.Text.Json.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\xunit.abstractions.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\xunit.assert.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\xunit.core.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\xunit.execution.dotnet.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\MyApplication.Application.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\MyApplication.Domain.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\MyApplication.Application.pdb
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\MyApplication.Domain.pdb
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\obj\Debug\net8.0\MyApplication.Tests.csproj.AssemblyReference.cache
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\obj\Debug\net8.0\MyApplication.Tests.GeneratedMSBuildEditorConfig.editorconfig
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\obj\Debug\net8.0\MyApplication.Tests.AssemblyInfoInputs.cache
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\obj\Debug\net8.0\MyApplication.Tests.AssemblyInfo.cs
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\obj\Debug\net8.0\MyApplication.Tests.csproj.CoreCompileInputs.cache
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\obj\Debug\net8.0\MyApplic.67CABBC4.Up2Date
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\obj\Debug\net8.0\MyApplication.Tests.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\obj\Debug\net8.0\refint\MyApplication.Tests.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\obj\Debug\net8.0\MyApplication.Tests.pdb
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\obj\Debug\net8.0\MyApplication.Tests.genruntimeconfig.cache
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\obj\Debug\net8.0\ref\MyApplication.Tests.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Features.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+F:\IdealRatings\New folder\Solution1\MyApplication.Tests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
